@@ -28,18 +28,17 @@
       ]
     },
     {
-      "name": "PhotoCamKun",
-      "bundleIdentifier": "io.github.taisan11.PhotoCamKun",
+      "name": "SimCamKun",
+      "bundleIdentifier": "io.github.taisan11.SimCamKun",
       "developerName": "taisan11",
       "subtitle": "シンプルなカメラアプリ",
-      "localizedDescription": "カメラ撮影に加えて、写真のEXIF情報や位置情報などを扱えるシンプルなカメラアプリです。",
+      "localizedDescription": "シンプルだけど高機能、誰でも使えるカメラアプリです。\n様々な機能に対応\n無音シャッター\nRAW撮影\n細かな画質の調整\nスローモーション撮影\nタイムラプス撮影\nLive写真撮影\n超拡大\n位置情報の保存\netc...",
       "iconURL": "https://avatars.githubusercontent.com/u/131413638?v=4",
       "tintColor": "#FF6B35",
       "versions": [
         {
           "version": "1.0",
-          "downloadURL": "https://raw.githubusercontent.com/taisan11/apps-repo/main/PhotoCamKun.ipa",
-          "size": 104081,
+          "downloadURL": "https://github.com/taisan11/apps-repo/raw/refs/heads/main/SimCamKun_NoExt.ipa",
           "localizedDescription": "初回リリース。"
         }
       ]
