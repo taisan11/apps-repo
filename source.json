@@ -1,13 +1,12 @@
 {
   "name": "taisan11 Source",
   "subtitle": "個人開発のiOSアプリ",
-  "description": "taisan11が開発しているiOSアプリを配布しています。",
+  "description": "taisan11が個人開発しているiOSアプリを配布しています。",
   "iconURL": "https://avatars.githubusercontent.com/u/131413638?v=4",
   "website": "https://github.com/taisan11/apps-repo",
   "tintColor": "#0A84FF",
   "featuredApps": [
     "io.github.taisan11.NetNovelViewer",
-    "io.github.taisan11.PhotoCamKun"
   ],
   "apps": [
     {
@@ -16,7 +15,7 @@
       "developerName": "taisan11",
       "subtitle": "ネット小説ビューワー",
       "localizedDescription": "ネット小説を読みやすく表示するためのシンプルなiOS向けビューワーです。",
-      "iconURL": "https://avatars.githubusercontent.com/u/131413638?v=4",
+      "iconURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NetNovelViewer.ipa",
       "tintColor": "#5C6BC0",
       "versions": [
         {
