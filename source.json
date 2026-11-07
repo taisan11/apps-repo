@@ -16,7 +16,6 @@
       "subtitle": "ネット小説ビューワー",
       "localizedDescription": "ネット小説を読みやすく表示するためのシンプルなiOS向けビューワーです。",
       "iconURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NetNovelViewerIcon.jpg",
-      "tintColor": "#5C6BC0",
       "versions": [
         {
           "version": "1.0",
@@ -32,12 +31,26 @@
       "developerName": "taisan11",
       "subtitle": "シンプルなカメラアプリ",
       "localizedDescription": "シンプルだけど高機能、誰でも使えるカメラアプリです。\n様々な機能に対応\n無音シャッター\nRAW撮影\n細かな画質の調整\nスローモーション撮影\nタイムラプス撮影\nLive写真撮影\n超拡大\n位置情報の保存\netc...",
-      "iconURL": "https://avatars.githubusercontent.com/u/131413638?v=4",
-      "tintColor": "#FF6B35",
+      "iconURL": "https://github.com/taisan11/apps-repo/releases/download/repo/SimCamKunIcon.png",
       "versions": [
         {
           "version": "1.0",
-          "downloadURL": "https://github.com/taisan11/apps-repo/raw/refs/heads/main/SimCamKun_NoExt.ipa",
+          "downloadURL": "https://github.com/taisan11/apps-repo/releases/download/repo/SimCamKun.ipa",
+          "localizedDescription": "初回リリース。"
+        }
+      ]
+    },
+    {
+      "name": "NativeTube",
+      "bundleIdentifier": "dev.taisan11.nativetube",
+      "developerName": "taisan11",
+      "subtitle": "Youtube代替アプリ",
+      "localizedDescription": "プライバシーに配慮したSwiftネイティブのYoutubeアプリ",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NativeTube.ipa",
+          "size": 1953801,
           "localizedDescription": "初回リリース。"
         }
       ]
