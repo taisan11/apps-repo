@@ -15,12 +15,12 @@
       "developerName": "taisan11",
       "subtitle": "ネット小説ビューワー",
       "localizedDescription": "ネット小説を読みやすく表示するためのシンプルなiOS向けビューワーです。",
-      "iconURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NetNovelViewer.ipa",
+      "iconURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NetNovelViewerIcon.jpg",
       "tintColor": "#5C6BC0",
       "versions": [
         {
           "version": "1.0",
-          "downloadURL": "https://raw.githubusercontent.com/taisan11/apps-repo/main/NetNovelViewer.ipa",
+          "downloadURL": "https://github.com/taisan11/apps-repo/releases/download/repo/NetNovelViewer.ipa",
           "size": 1953801,
           "localizedDescription": "初回リリース。"
         }
