@@ -1,5 +1,7 @@
 # taisan11 app repo
 サイドロード使い向けに使いやすいアプリを提供します!!
+**このリポジトリで配布しているのは全て開発中のものです。不定期に更新が入ります**
+**その際は、ファイル置き換え方式で対応しているため、気が向いたときに再度インストールボタンを押すなど操作をお願いいたします。**
 文句や意見は[Issues](https://github.com/taisan11/apps-repo/issues)に
 利用規約は[License](https://github.com/taisan11/apps-repo/blob/main/LICENSE)を見てください。
 ## ソースの追加方法
